@@ -1,0 +1,138 @@
+[
+    {
+      
+      "id": 1,
+      "thumbnail": " https://media-hosting.imagekit.io/7d237d25a6d04151/peroat1.jpg?Expires=1841320064&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=IbywUylfi-ClTF3TwPOf-1UPONaME5d0KoaAVLqhE8RNggC1s-CzD12hFbZiwNJbzB8evB8nYsWg-GCfCsr3PCJ2nEoOO5E7l4e9yRRi7mXaX0CQOBAX8H-x9O8KJZ48QqgGwdzqzFSRloX2VHchpC0TQ4x2ii1hfSpq08EWSVN2cQtPCV3e9nmNoszemQSGTpam6IyHxFsvU7etDVSRJTs6XOzITmZpDIa1R0ri~S5QDoBkkw9uGaquRqmzXuUo~DBGplY~KxSYvjvJaca9teZW0q2afjFjE6IfP1OoabnKIKytgr7Wx1YmOcJDGrB9LTv58WcrZMu8XD4GGP4yeA__",
+      "name": "Premium Parrot Grooming",
+      "techCategory": "Parrot",
+      "price": 25,
+      "frequency": "monthly",
+      "details": "Our professional parrot grooming includes beak trimming, claw clipping, and feather maintenance to ensure your bird's health and vibrant look.",
+      "moreDetails": "This service is designed for parrots of all species including macaws, cockatoos, and African greys. In addition to grooming, we provide health monitoring for signs of nutritional deficiency, stress, or respiratory issues. Each session includes a behavior assessment, advice on cage cleanliness, and personalized dietary consultation. Our grooming is stress-free, using calm handling techniques to make the experience comfortable for your bird. We also provide seasonal care tips to address molting and changes in temperament, along with recommendations for enrichment toys and safe perches to maintain claw and beak health.",
+      "rating": "4"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://media-hosting.imagekit.io/9468c6d28ad04972/Catimage2.jpg?Expires=1841320262&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=N~~3rJDwoDGdI5ZpSwOgpqsgIQyNNyPyiJsIdizYYeW3v5F4K8idWP27w0ZotkgpGUntnGXGoREL64fLCHJx6TdydS7jAiUb16Q8O66dVnM8I8xBUscehjfevjsp1A~k~BhApla3HABg95lSKaAxOvyFQoOSi7-qo29f4I50LCcSpVtQtak52AAnj13OQWthPY9RGQc8sKro6SVxLUN~JjOJTloqTBtaBi4LIB9RhXdmdU8qvmTzxMPCTkUyGuUWNyVto05SGCjCU1Y~8HeJGrxKXng~w-pIvTw6bzbZvItTam9guRtpb~s3ca-3bPOz-aEbV6bNJ-wBNt7eZiZuzQ__",
+      "name": "Feline Wellness Package",
+      "techCategory": "Cat",
+      "price": 40,
+      "frequency": "monthly",
+      "details": "Regular check-ups, coat grooming, nail trimming and dietary consultations to keep your cat purring with health and happiness.",
+      "moreDetails": "This comprehensive monthly package covers grooming, nutrition, and wellness needs of indoor and outdoor cats. Our team checks for signs of skin infections, dental problems, and early signs of arthritis. Flea, tick, and worm prevention options are available upon request, and we provide reminders for vaccinations and deworming schedules. If needed, our team helps with litter box hygiene assessment and can recommend stress-reducing pheromone diffusers. Cats with chronic conditions like obesity or diabetes receive personalized care plans and diet restructuring. We also offer tips for feline mental stimulation including toy selection and cat tree placement.",
+      "rating": "6"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://media-hosting.imagekit.io/4e07095b7e1348ca/fishimage3.jpg?Expires=1841320314&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=VWmGu5vOIncXkNPcaLLU5Qoj9XvsZSCYCZazJKYHvkRTQ1Bw5R5VAtLy8GIBLL2IYSP7~81j0ofmO5qFW3TK0zHmx~UcTrfXGepBKsoS~1FhabSqia-HkpS2mQjvQXH2vPNyMvvv3RG3766J1tFi~x9bWGgZBqb2Lyjh3kpb3G8aPx7alyo6YdjgBErHGl6Wlko74-MfMeUvRwBY68NkycSzzv2T5rg6~EVJwcNoW75TY~xn3zEZyfGlXSWLjp7eu-UF25k~16P3BVGKCcoh-OSqZarqY-uHLTSv0y6-3XA6TRI8UwNY3tfBbHN-37whqvRVbI3D-rCwWfrZK5ZEAg__",
+      "name": "Aquarium Health Check",
+      "techCategory": "Fish",
+      "price": 30,
+      "frequency": "monthly",
+      "details": "We inspect water quality, filter efficiency, and fish behavior to maintain a thriving aquarium ecosystem.",
+      "moreDetails": "Each visit includes a detailed chemical analysis of the water—testing for pH, nitrite, nitrate, ammonia, and temperature levels. We assess your filter system for efficiency, cleanliness, and flow rate. Our specialists check the behavior and appearance of your fish for signs of illness such as ich, fin rot, or stress. We also consult on feeding schedules, light exposure, and proper tank decoration placement to encourage hiding, breeding, and swimming behaviors. Recommendations on algae control, live plant maintenance, and tank cycling for new setups are also provided. A full log of tank health trends is maintained to ensure consistency.",
+      "rating": "3"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://media-hosting.imagekit.io/911b491744af4a16/dogimage4.jpg?Expires=1841320354&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cnau1-DVL~gei4Wuv97wT5dXURxr3s5FDTtoN8hDdSO7rMZIBmlac46799zJEP2uwkiEyPngV~hG4yLzjCeClaVhIKTg1YBuvWTzhluG6QxqUilJOy7G5VyCr0dqZ6u1UVCLJGCsdQSIOA6tPlsVhHcp9ZkMOqzQeYSO0Gk71eGk~5F7OmcHOfWb23uhoYjuVR5MTH1LILqLNNxmVe48iQvRdHrXurcTaJYbXu8btyQxKezldd9D2eTSGVm8nXNDS9c7q9sg1vwx9AwaPT6F3eo3wsA7MvDq2dMM2l7ZOp-9bizWF9E4xXfTiP0af9SnnftpVgYwUz-hgG6AlmaFBw__",
+      "name": "Canine Spa & Health Care",
+      "techCategory": "Dog",
+      "price": 50,
+      "frequency": "monthly",
+      "details": "Includes fur grooming, skin care, dental hygiene, and joint mobility checks tailored for all breeds and sizes.",
+      "moreDetails": "Our canine care package is tailored to the specific age, breed, and lifestyle of your dog. It includes a full bath using breed-appropriate shampoo, nail clipping, ear cleaning, and fur detangling. For senior dogs, we add joint support massage and mobility analysis. Our team checks for skin allergies, hot spots, and common parasites. We also perform dental hygiene using enzymatic toothpaste and provide a report card after every visit. Additional services include behavioral analysis for anxious or hyperactive dogs, coat conditioning treatments, and advice on nutrition and supplements. We prioritize comfort and safety, using only pet-safe products.",
+       "rating": "7"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://media-hosting.imagekit.io/7275514591ba48d1/Rabitsimage6.jpg?Expires=1841320491&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cOGdvDZ~kBrQKngjlMEftygebQDkr8YEPb97h6uanzz0n9dOacKck-JIdlrEioC8jF2obFcH2xmSlmoZhN~-ogQhRjZLCCvSS3u5AOQ7lPggtKwIab1lgU9HQ-p~3nluWnt-0hgTbi-wXnEuFraC-xhUSK04aMKIeXrkCZb9uMvlE0ukdorvvUl8nRpsNK2~71n7CBWru1dr9h1iAGdflKPxtPswpWf53BRVe6j7l0Y8EJF75VPj6l~8K~w-w4uTPmeG5QyLjLKHPhM2Km8MWGtYpKDL4fdfTORUHTYEiZbXPtB158XAKL-wP9XcFMafz8TBqOuDnoSc4X9B8f~xGQ__",
+      "name": "Bunny Care & Trimming",
+      "techCategory": "Rabbit",
+      "price": 20,
+      "frequency": "monthly",
+      "details": "Special grooming and habitat sanitation to ensure your rabbit stays clean, comfortable, and stress-free.",
+      "moreDetails": "Our monthly rabbit care includes thorough fur brushing to reduce shedding and prevent matting, claw trimming, and scent gland cleaning. We examine your rabbit’s teeth for overgrowth and offer guidance on chew toys and fibrous diets to support natural dental wear. Our team evaluates cage cleanliness and offers tips on bedding choices, litter training, and environmental enrichment. Rabbits are also assessed for signs of heat stress, flystrike, and GI stasis. We educate owners on bonding techniques for multi-rabbit households and recommend appropriate hay types and leafy greens to support gut health and energy levels.",
+       "rating": "5"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://media-hosting.imagekit.io/d07727ad707445cb/frogimage5.jpg?Expires=1841320535&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Re3pTa28FkJLbSiqCx7E~g~N5GLo06f1uTymL5zda~ARshN8q92qUTc1P2z~zWS7GiDMLnhlG8no66wMPEeZiGmYMTSbe-PdH8hpuEpeeP6notQb4NWtCzm4bWB1Pu2W1Hs7yICCTsm-w2wm0fMZxfK5N~5c~n7ZG1TAc8l7ToyYhlwfKGS41bEE3c8xYm81uOq-zxi9nO-ykbdiIFEhKM-SuSwJSjBT2AtcPRCQ3h0pX3zJJRgHgnetWFi442vTrS4DhLv4uJO009mMnapKevgNwfeSJjd4bMLAWIE4m0J4IwHGXOVcugPe~Zm-iHoTnjv0SkJpchCnQdarFf-Rfg__",
+      "name": "Exotic Frog Terrarium Setup",
+      "techCategory": "Frog",
+      "price": 45,
+      "frequency": "once",
+      "details": "We customize temperature, humidity, and plant arrangements to build an ideal terrarium environment for your amphibian.",
+      "moreDetails": "This service is perfect for tree frogs, dart frogs, and other exotic species. We set up bioactive enclosures with live plants, substrate layers, and proper lighting (UVB where applicable). Our technicians calibrate temperature and humidity using thermometers and hygrometers, ensuring consistent conditions. Misting systems are installed to automate moisture cycles. We provide a feeding guide for live prey including frequency, gut-loading tips, and calcium supplementation. The service also includes hiding spots and climbing elements to reduce stress and promote activity. Post-setup, we offer a checklist for weekly maintenance, water quality, and mold prevention.",
+       "rating": "8"
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://media-hosting.imagekit.io/147c66e0e6424b8f/repitles7.jpg?Expires=1841320579&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uJm8Aye47iDr8xQSsNjF~3260MeV5QeAnlGbyoWzwGf0FO-uH--DU0lwL7SnGjKvnWQI-~-NR-4c0X-joV2jkjC3GoGeTyI8EIk87vIwd0lpgT7w219yxpTmOloQjVky2nLxwAlBfD-airCB7UGjK3JRYngXrMWBfTAW3vAlvehWRSMLPUiAC9f48LCp4i9S-3bLdRHcDJ2oG6oIcfXDcYVc67ExS6n1eRGlMcEnnUhfIQGpauWLr6EfiW63uL6HGaqLWfZJLJfy7Cz~LTbPgo1i4trUnI0kpmpn~AoQdn4OnHh3ysa1LknB4ezqPH6p59NGH~IUzGjMazCFddYrug__",
+      "name": "Reptile Vet Inspection",
+      "techCategory": "Reptile",
+      "price": 60,
+      "frequency": "monthly",
+      "details": "Professional vet health assessments for snakes, lizards, and geckos to ensure proper molting and digestion.",
+      "moreDetails": "This monthly inspection includes a full physical check, observation of behavior, and environmental assessment. We monitor molting quality, signs of respiratory infections, and weight stability. Lighting, heat gradient, and UVB exposure are measured and adjusted as needed. Our team evaluates substrate choice for potential impaction risks and provides dietary planning, including feeding schedules and gut-loading techniques. We also educate owners on handling practices, enclosure hygiene, and stress reduction strategies. Species-specific needs such as humidity boosts for tropical lizards or cool hides for desert species are incorporated into the care plan.",
+       "rating": "3"
+    },
+    {
+      "id": 8,
+      "thumbnail": "https://media-hosting.imagekit.io/f93468b8e1e940af/mouse8.jpg?Expires=1841320615&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=guMgHz2yTszuPLA~oNev-Qvll5KNsMHp6f4ML7pGNjoNrvyslRKcOk77GWc7WtCQSEDyH9sQhJDBLGOs1KY3Oti8gaEo6OGzIxG1D4QNIrOU7FV8lh3BjmXEKH-h0pJb2im~1m1-d-Si1DXGE9LeUu-jZB6viI0M6AblXrpuX4gMulBIJk0sg3JQcnXJtit-rrm0BBfIJfDYr38WOjR9BV6yGB5cMERqMLB1xDkDCtlqGgt8PZxLk4cQKyFQh9wxQYEktlcKhZW1JYiWARXHlA4E9iSwfJnLsSFPo7v2U148tMNWsOu7SaAKXu3TIrMG~RSa6VWdAh-UnbXl4EFi2Q__",
+      "name": "Rodent Habitat Cleaning",
+      "techCategory": "Mouse",
+      "price": 15,
+      "frequency": "weekly",
+      "details": "We perform cage disinfection, bedding replacement, and behavioral enrichment for your small rodent pets.",
+      "moreDetails": "Our rodent service is ideal for mice, hamsters, gerbils, and rats. We deep clean habitats using pet-safe disinfectants and replace bedding with dust-free, absorbent material. Wheel lubrication, water bottle inspection, and hideout sanitation are included. We evaluate social behavior for signs of stress or aggression in shared enclosures. Enrichment planning includes tunnel rearrangement, chew toy rotation, and foraging ideas. Nutrition tips are given based on age and activity level, and we guide owners on taming techniques. We also check for overgrown teeth, abnormal fur loss, and breathing issues common in small mammals.",
+       "rating": "6"
+    },
+    {
+      "id": 9,
+      "thumbnail": "https://media-hosting.imagekit.io/0e3a2eb2a51f4d43/chicken9.jpg?Expires=1841320709&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=KbP8Wm92qS9cibtNOahlZufxUJehccG8-5m7r-JhT5uS1SI5O8zfWzuHr2b0lvuBFzMVAcyX1CtvAwV4G-LgKjZLa515vJdquRoZI96XQzXEBRPG5A8wpdV3zKnUOW9VALk0ZW1-0B7T5zpB8V08sR3BpDuyIy-imXsXa2nPD2jhdfRiYjBpWbsAbAo8U3UtsQuIvzhi-6c3ko6lWkK88se6xEJO~nQichbSIfl2t0IcEeDSyPuIQOYtydptyuGjB~HDcmWs~YLZg~PO7~Y0hNYCq7nxWVfUOQt0Yutt7NLA~lZJ-OaD8VD4b-YrRRKOnsfeFJkJVfhLS4LW-ZCbAQ__",
+      "name": "Poultry Health & Coop Check",
+      "techCategory": "Chicken",
+      "price": 35,
+      "frequency": "monthly",
+      "details": "Comprehensive hen and rooster examination including parasite treatment and coop maintenance guidance.",
+      "moreDetails": "We perform detailed health checks for signs of parasites, foot problems, and egg-binding. Coop inspections include ventilation, bedding quality, nesting box hygiene, and predator-proofing. Parasite treatments are rotated seasonally to avoid resistance. We assist in planning rotational grazing and offer dietary recommendations for better egg production. Vitamin and calcium supplements are discussed based on flock age and weather conditions. We also help identify pecking order issues and behavioral changes. Record-keeping templates for egg count and feed use are provided, and we offer winterizing or summer-proofing tips for coops.",
+       "rating": "7"
+    },
+    {
+      "id": 10,
+      "thumbnail": "https://media-hosting.imagekit.io/4689970a7b6340ca/duck10.jpg?Expires=1841320772&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Wa2EL~VJB9wOw~tQJhWQk2wS4FOZHtaeKciwrzmivExqxK0ABqJEUOtUQVIvEtYuu~mCuBIf3Gb6ErpQ9Vmz5LGQXLbjK9gVSiSNpbbdowCD4DD969a1r1T3bsU4u65jj5z0B7zkt9kQcOqRrZGXvHWOQ49t~FxtrxHmQDjL1YK2aHebf5kp-O1BXbOTK6GE-tjnh6Sy5SPk9iYjhZ3kFJcQc3LD38PD2iKIkHXCEeX4daXgBtOxI2j-IMVFMk6dBC7KZEKaPM~UQCvr2vH1ja4jXfgLU95TKkDEnfB-6YI~2gv4PnH2OP63GIeue-ruj8K9AqosJeauK6xr3k4H6w__",
+      "name": "Duck Pond Sanitation",
+      "techCategory": "Duck",
+      "price": 25,
+      "frequency": "monthly",
+      "details": "Ensure your ducks thrive with proper water cleaning, nutrition advice, and seasonal health inspections.",
+      
+      
+      "moreDetails": "We clean ponds using safe, duck-friendly agents and remove debris, algae, and mosquito larvae. Water testing ensures proper pH, oxygen, and bacteria levels. Ducks are inspected for bumblefoot, molting issues, and parasites. Nutrition advice includes grains, greens, and protein sources like insects. We provide tips for nesting site arrangement and predator shielding. Seasonal care involves insulation in winter and shade/sprinkler systems in summer. We evaluate fencing, pond access ramps, and suggest changes to reduce erosion and waste buildup. Regular upkeep keeps your duck community happy and disease-free year-round.",
+       "rating": "5"
+    },
+    {
+      "id": 11,
+      "thumbnail": "https://media-hosting.imagekit.io/02e181e374ae4875/Swans11.jpg?Expires=1841320814&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=HA91ee2vYX4oURxyoH7EQN3PYm4ijui7leqNUPXRO3tpsDFxP22cl~WfO2Iuax-S1WrDcyJQJsGMkMQkoccCw0QksnTW4AQ~ogZpCuR-xJx5y2u8jRuhWSkskQ4xtSQYDyoBS6Mhnlwu9IOWBwjAIBYVLDESt7v3-4Hj5g4e9XcFaCLznQCFUL3oGw0ZaR1mHGhZfPNBsBjXQuqPaSgi2JAZtGri4ORzopT8dznecnx7dkV2sqfBUBXNL8GB28mpjL25xP41TaMBM94KGOUSWPszm7FypsHUUenwcXbCYzAy-S6-aBiykb4oFS3T6Vlnv-rh~r5RIF4HZGapgqHJEA__",
+      "name": "Swan Wellness & Feather Care",
+      "techCategory": "Swans",
+      "price": 70,
+      "frequency": "monthly",
+      "details": "Expert services for grooming, feeding routines, and tranquil environment planning for elegant swans.",
+      "moreDetails": "We perform feather quality checks, identify signs of parasites or plucking, and ensure preening support. Swans are observed for signs of foot injuries, arthritis, and aggression. Our team provides advice on nesting materials, water depth for bathing, and enrichment for bonded pairs. We tailor feeding routines to include aquatic vegetation, grains, and calcium-rich supplements. Environmental assessment includes noise control, human interaction guidelines, and pond flow management. We also discuss social pairing, wing clipping (where needed), and winter migration alternatives for captive birds.",
+       "rating": "3"
+    },
+    {
+      "id": 12,
+      "thumbnail": "https://media-hosting.imagekit.io/4e1ec5baf54d4d82/pigion12.jpg?Expires=1841320858&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zd1zOnv7-cOCJ0nS7ftU1a-8CUUxE1ll32zpT0bKTDuGlnBoIqxhBnWKrMyspaqOoc~V2Ykiw6lSbeLzA2QEIbX98fmHInM5orJBVW17LeNNwdCu~FBBQ1o40z~rKUbAM3xMnZzYajh7JRL5i2DmB9YVK2l6vUw9Wci7bBl~SaVI-~UCa4C0ZLBn6anjY2doRIO3vRxlA90ynaqR~wlgTpFfZaq8Tsq7nqzPG7pa31ecIfltgyzwm-289ogyjSVmwA1Ugpb5zdgwcM~prTqVvWlGchiOwC43fxOoiMcJvxQT5NLbos46B1GQEUTnPy7M~78IwwRL2r3hoSCCxBvaIA__",
+      "name": "Urban Pigeon Medical Check",
+      "techCategory": "Pigeon",
+      "price": 20,
+      "frequency": "monthly",
+      "details": "Focused care on respiratory health, feather mite prevention, and loft sanitation for city pigeons and flyers.",
+      "moreDetails": "Our service includes full-body checks, wing flex testing, and monitoring for signs of canker, respiratory infections, or parasites. We review loft ventilation, perch spacing, and nesting materials to reduce contamination and stress. Feather mites and lice treatments are included as needed. We offer guidance on diet including grit, seeds, and vitamins. For racing or homing pigeons, we advise on training schedules, band tracking, and rest cycles. Fecal consistency and crop function are observed. We also provide molting and breeding cycle advice for fanciers and competitive keepers.",
+      "rating": "4"
+    }
+  ]
+  
