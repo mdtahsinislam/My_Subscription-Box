@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 ---
 # 📦 Subscription Box Service Platform
 ## Repo : https://github.com/mdtahsinislam/My_Subscription-Box
-## live link : https://my-subscription-box-39991.web.app/
+## live link : https//my-subscription-box-39991.web.app/
 
 The **Subscription Box Service Platform** enables users to easily **browse, subscribe, and manage monthly subscription boxes** based on their preferences.  
 This service offers a **personalized experience** where customers can select boxes for various products or services.  
