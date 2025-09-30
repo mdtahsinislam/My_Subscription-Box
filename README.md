@@ -77,7 +77,7 @@ Your data should be structured as follows:
   "ratings": 4.8,
   "number_of_reviews": 315
 }
-
+```
 
 # 🏠 Home Page & Features
 
