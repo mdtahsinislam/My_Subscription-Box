@@ -79,4 +79,104 @@ Your data should be structured as follows:
 }
 
 
+# 🏠 Home Page & Features
 
+The **Home Page** of the Subscription Box Service Platform will include the following:
+
+---
+
+## 🎡 Home Page Sections
+
+### 🔹 Slider
+-  ** slides** using **Daisy UI** or **Swiper**  
+
+### 🔹 Subscription Services Section
+- Displayed in a **card layout** using JSON data  
+
+### 🔹 Extra Sections
+- Two additional sections for **content/features**
+
+---
+
+## 📦 Subscription Service Card (Data Display)
+
+Each service card will display:  
+- 🖼️ Thumbnail  
+- 📛 Name  
+- 🏷️ Tech Category  
+- 💰 Price  
+- ⏳ Frequency  
+- 🔘 **"View More" Button**
+
+---
+
+## 🔒 Subscription Service Details Page (Protected)
+
+- Accessible only when the **user is logged in**  
+- Displays **all details** of the selected subscription service  
+
+### ✍️ Review Section
+- Input fields:
+  - **Review**
+  - **Rating (1–5)**
+- Submit button → Adds review (shown on the same page)  
+- Reviews are **not persisted** (no local storage required)
+
+⚡ **Note**: User stays on the private route page even after reload (no forced redirect to login).  
+
+---
+
+## 🔑 Authentication
+
+### 🔐 Login Page
+**Fields:**
+- Email  
+- Password  
+
+**Features:**
+- Google Login  
+- Link to **Register Page**
+
+---
+
+### 📝 Register Page
+**Fields:**
+- Name  
+- Email  
+- photoURL  
+- Password  
+
+**Features:**
+- Google Login  
+- Link to **Login Page**
+
+---
+
+## ✅ Password Rules
+- Must include **1 Uppercase letter**  
+- Must include **1 Lowercase letter**  
+- Minimum length **6 characters**
+
+---
+
+## 📝 Challenge Requirements Checklist
+- [x] Navbar with login/logout functionality  
+- [x] Slider with 3+ slides  
+- [x] JSON data (6+ services)  
+- [x] Subscription Services displayed as cards  
+- [x] Protected Service Details page with reviews  
+- [x] Login & Register with validation  
+- [x] Google Authentication support  
+
+---
+
+## ⚡ Tech Stack
+- ⚛️ **React.js + React Router**  
+- 🔑 **Firebase Authentication**  
+- 🎨 **Tailwind CSS + Daisy UI**  
+- 🎡 **Swiper.js** (for sliders)  
+- 📑 **JSON (mock data)**  
+
+---
+
+Happy Coding! 🚀
