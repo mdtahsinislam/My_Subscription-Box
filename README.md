@@ -7,10 +7,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Repo : https://github.com/mdtahsinislam/My_Subscription-Box
-## live link : https://my-subscription-box-39991.web.app/
+
 ---
 # 📦 Subscription Box Service Platform
+## Repo : https://github.com/mdtahsinislam/My_Subscription-Box
+## live link : https://my-subscription-box-39991.web.app/
 
 The **Subscription Box Service Platform** enables users to easily **browse, subscribe, and manage monthly subscription boxes** based on their preferences.  
 This service offers a **personalized experience** where customers can select boxes for various products or services.  
@@ -76,3 +77,6 @@ Your data should be structured as follows:
   "ratings": 4.8,
   "number_of_reviews": 315
 }
+
+
+
